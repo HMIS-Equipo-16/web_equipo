@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'hmis-aca062'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_05FAB7FEC3964795BB04C99528F1D1EC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_616B2335F9A74A29AC8539E29FF36B89 }}
           package: .
